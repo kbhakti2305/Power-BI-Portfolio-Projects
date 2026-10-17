@@ -1,5 +1,9 @@
 # 🚗 Insurance Risk & Claims Analysis – Power BI Dashboard
 
+![Insurance Risk & Claims Analysis Dashboard](01_Insurance Risk & Claims Analysis/Dahboard page 1.png)
+
+---
+
 ## 📊 Data Source
 - **File Type:** Excel (.xlsx)
 - **Description:** The dataset contains policyholder and claim details consolidated from multiple sources into a single Excel file for analysis in Power BI.
@@ -58,21 +62,14 @@ Dynamic measures used:
 - **Gender Split:** Male – 18.7K | Female – 18.8K  
 
 ### Key Observations
-- Private car usage contributes the majority of claim amounts.
-- Ford and Chevrolet lead in claim totals among car brands.
-- Claims are evenly distributed across coverage zones.
-- Age groups 26–45 show the highest claim activity.
-- Cars manufactured between 2010–2018 have the highest claim amounts.
-- Households with no kids driving show significantly higher claim totals.
-- Bachelor’s degree holders form the largest segment of policyholders.
+- Private car usage contributes the majority of claim amounts.  
+- Ford and Chevrolet lead in claim totals among car brands.  
+- Claims are evenly distributed across coverage zones.  
+- Age groups 26–45 show the highest claim activity.  
+- Cars manufactured between 2010–2018 have the highest claim amounts.  
+- Households with no kids driving show significantly higher claim totals.  
+- Bachelor’s degree holders form the largest segment of policyholders.  
 - Married individuals with Bachelor’s degrees contribute the highest claim amounts.
-
----
-
-## 🖼️ Dashboard Preview
-![Insurance Risk & Claims Analysis Dashboard](images/Insurance_Risk_Claims_Analysis.png)
-
-*(Place your uploaded dashboard image inside an `images/` folder and reference it as shown above.)*
 
 ---
 
@@ -97,5 +94,4 @@ Dynamic measures used:
 - Integrate real-time data via SQL or API connections.  
 - Add predictive analytics for claim forecasting.  
 - Include customer segmentation and risk scoring models.
-
 
