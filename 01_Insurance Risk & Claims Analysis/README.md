@@ -89,10 +89,3 @@ Dynamic measures used:
 
 
 
----
-
-## 📈 Future Enhancements
-- Integrate real-time data via SQL or API connections.  
-- Add predictive analytics for claim forecasting.  
-- Include customer segmentation and risk scoring models.
-
