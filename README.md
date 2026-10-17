@@ -17,7 +17,7 @@ Each project focuses on a unique business domain and highlights my ability to de
 
 ## 📁 Projects Included
 
-### 1️⃣ Insurance Risk & Claims Analysis
+### [1️⃣ Insurance Risk & Claims Analysis](https://github.com/kbhakti2305/Power-BI-Portfolio-Projects/tree/main/01_Insurance%20Risk%20%26%20Claims%20Analysis)
 **Description:**  
 An interactive Power BI dashboard designed for an insurance company to analyze **policyholder demographics**, **claim patterns**, and **risk exposure**.  
 It centralizes scattered data sources to help stakeholders make data‑driven decisions.
@@ -27,9 +27,6 @@ It centralizes scattered data sources to help stakeholders make data‑driven de
 - Total Policies, Claim Amount, Frequency, and Average Claim KPIs  
 - Gender‑wise segmentation and car‑related risk analysis  
 - Age group, coverage zone, and education‑based claim trends  
-
-**Project Link:**  
-👉 [Insurance Risk & Claims Analysis](https://github.com/kbhakti2305/Power-BI-Portfolio-Projects/tree/main/01_Insurance%20Risk%20%26%20Claims%20Analysis)
 
 ---
 
