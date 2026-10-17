@@ -87,11 +87,7 @@ Dynamic measures used:
 
 ---
 
-## 🚀 How to Use
-1. Open the `.pbix` file in **Power BI Desktop**.  
-2. Connect to the Excel dataset.  
-3. Refresh data to view updated insights.  
-4. Use filters and slicers to explore KPIs and charts interactively.
+
 
 ---
 
