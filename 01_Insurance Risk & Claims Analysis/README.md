@@ -1,6 +1,5 @@
 # 🚗 Insurance Risk & Claims Analysis – Power BI Dashboard
 
-![Insurance Risk & Claims Analysis Dashboard](01_Insurance Risk & Claims Analysis/Dahboard page 1.png)
 ![Insurance Risk & Claims Analysis Dashboard](https://github.com/kbhakti2305/Power-BI-Portfolio-Projects/blob/main/01_Insurance%20Risk%20%26%20Claims%20Analysis/Dahboard%20page%201.png)
 
 
